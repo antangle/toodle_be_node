@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/antangle/toodle_be_node/issues"
   },
-  "homepage": "https://github.com/antangle/toodle_be_node#readme"
+  "homepage": "https://github.com/antangle/toodle_be_node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
